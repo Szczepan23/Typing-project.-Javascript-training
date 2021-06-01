@@ -1,6 +1,6 @@
 const spanTxt = document.querySelector('.text');
 const spanCursor = document.querySelector('.cursor');
-const txt = ['Pisanie...', 'maszynowe...', 'zakończone...', 'sukcesem! : )']
+const txt = ['Successful...', 'typing...', 'project! : )']
 const time = 30;
 let wordIndex = 0;
 let letterIndex = -15;
