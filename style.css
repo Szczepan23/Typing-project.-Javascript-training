@@ -1,0 +1,16 @@
+div {
+    font-family: arial;
+    max-width: 80%;
+    margin: 20px auto;
+    font-size: 60px;
+    letter-spacing: 1px;
+}
+
+.cursor {
+    opacity: 0;
+    transition: .15s;
+}
+
+.active {
+    opacity: 1;
+}
