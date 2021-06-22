@@ -1,2 +1,2 @@
 
-[live](https://szczepan23.github.io/Typing-project.-Javascript-training/)
+[live](https://rafal-szczepanik.github.io/Typing-project.-Javascript-training/)
